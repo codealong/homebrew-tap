@@ -7,7 +7,7 @@ cask "codealong" do
   url "https://github.com/codealong/codealong/releases/download/v#{version}/Codealong_#{version}_universal.dmg"
   name "Codealong"
   desc "Board for every coding agent you run, across tools and accounts"
-  homepage "https://github.com/codealong/codealong"
+  homepage "https://www.codealong.com"
 
   livecheck do
     url :url

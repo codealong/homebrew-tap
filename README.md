@@ -1,6 +1,6 @@
 # Codealong for Homebrew
 
-[Codealong](https://github.com/codealong/codealong) is a free, open-source Mac app that shows
+[Codealong](https://www.codealong.com) is a free, open-source Mac app that shows
 every coding agent you run (Claude Code, Codex, OpenCode, Antigravity and Cursor, on every
 account you have) on one board.
 
