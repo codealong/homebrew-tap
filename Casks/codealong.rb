@@ -1,8 +1,8 @@
 # Moved to each new release by codealong/codealong's homebrew.yml once the release is published:
 # the version and the disk image's checksum, nothing else. Change the rest here.
 cask "codealong" do
-  version "0.18.0"
-  sha256 "ee7527c3028c04c5e4609e3f428332645f456c293f61e13f531b241ef1ad1cdb"
+  version "0.19.0"
+  sha256 "19533fb3b50ff00e579bff56ee08978a5669b27e84f7365c215dac77943fd41f"
 
   url "https://github.com/codealong/codealong/releases/download/v#{version}/Codealong_#{version}_universal.dmg"
   name "Codealong"
